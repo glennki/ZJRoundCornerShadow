@@ -13,6 +13,7 @@
 		A52971741DF859D600935D73 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A52971721DF859D600935D73 /* Main.storyboard */; };
 		A52971761DF859D600935D73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A52971751DF859D600935D73 /* Assets.xcassets */; };
 		A52971791DF859D600935D73 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A52971771DF859D600935D73 /* LaunchScreen.storyboard */; };
+		A52971811DF85B9B00935D73 /* beautyGirl.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A52971801DF85B9B00935D73 /* beautyGirl.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A52971751DF859D600935D73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A52971781DF859D600935D73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A529717A1DF859D600935D73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A52971801DF85B9B00935D73 /* beautyGirl.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = beautyGirl.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		A52971681DF859D600935D73 /* ZJRoundCornerShadow */ = {
 			isa = PBXGroup;
 			children = (
+				A52971801DF85B9B00935D73 /* beautyGirl.jpg */,
 				A529716C1DF859D600935D73 /* AppDelegate.h */,
 				A529716D1DF859D600935D73 /* AppDelegate.m */,
 				A529716F1DF859D600935D73 /* ViewController.h */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A52971791DF859D600935D73 /* LaunchScreen.storyboard in Resources */,
+				A52971811DF85B9B00935D73 /* beautyGirl.jpg in Resources */,
 				A52971761DF859D600935D73 /* Assets.xcassets in Resources */,
 				A52971741DF859D600935D73 /* Main.storyboard in Resources */,
 			);
